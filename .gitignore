@@ -2,3 +2,5 @@
 target
 *.iml
 configuration.properties
+environment/qa1.properties
+environment/qa2.properties
